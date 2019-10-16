@@ -1,0 +1,16 @@
+/* .container{
+} */
+.messages{
+    color: red;
+}
+.part{
+    display: inline-block;
+    margin: 20px;
+}
+.right{
+    vertical-align: top;
+    margin: 30px 0px 0px 345px;
+}
+/* .logout{
+
+} */
